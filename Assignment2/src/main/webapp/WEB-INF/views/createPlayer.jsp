@@ -7,7 +7,7 @@
 <head>
   <title><spring:message code="create.player"/></title>
   <link rel="stylesheet" type="text/css"
-        href="<c:url value="/resources/style.css" />">
+        href="<c:url value="/resources/styles.css" />">
 </head>
 <body>
 <h1><spring:message code="create.player"/></h1>
@@ -95,13 +95,12 @@
           </form:label></td>
         <td><form:input path="salary" cssErrorClass="error"/></td>
       </tr>
-
+      <tr><td>&nbsp</td></tr>
       <tr>
         <td colspan="2">
-          <spring:message code="stats"/>
+          <strong><spring:message code="stats"/></strong>
         </td>
       </tr>
-
       <tr>
         <td>
           <form:label path="goals" cssErrorClass="error">

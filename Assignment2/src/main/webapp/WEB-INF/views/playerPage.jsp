@@ -8,7 +8,7 @@
 <head>
   <title><spring:message code="player.info"/></title>
   <link rel="stylesheet" type="text/css"
-        href="<c:url value="/resources/style.css" />">
+        href="<c:url value="/resources/styles.css" />">
 </head>
 <body>
 <h1><spring:message code="player.info"/></h1>

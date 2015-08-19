@@ -5,7 +5,7 @@
   <title>Spitter</title>
   <link rel="stylesheet"
         type="text/css"
-        href="<c:url value="/resources/style.css" />" >
+        href="<c:url value="/resources/styles.css" />" >
 </head>
 <body>
 <h1>Welcome to Serie A Soccer League</h1>

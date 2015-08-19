@@ -8,7 +8,7 @@
 <head>
   <title><spring:message code="trainer.info"/></title>
   <link rel="stylesheet" type="text/css"
-        href="<c:url value="/resources/style.css" />">
+        href="<c:url value="/resources/styles.css" />">
 </head>
 <body>
 <div>

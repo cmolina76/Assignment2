@@ -7,7 +7,7 @@
 <head>
   <title><spring:message code="create.trainer"/></title>
   <link rel="stylesheet" type="text/css"
-        href="<c:url value="/resources/style.css" />">
+        href="<c:url value="/resources/styles.css" />">
 </head>
 <body>
 <h1><spring:message code="create.trainer"/></h1>
